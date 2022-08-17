@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\AumentoDeSalario\bin\Debug\netcoreapp3.1\AumentoDeSalario.exe
+C:\Users\017586631\source\repos\AumentoDeSalario\bin\Debug\netcoreapp3.1\AumentoDeSalario.deps.json
+C:\Users\017586631\source\repos\AumentoDeSalario\bin\Debug\netcoreapp3.1\AumentoDeSalario.runtimeconfig.json
+C:\Users\017586631\source\repos\AumentoDeSalario\bin\Debug\netcoreapp3.1\AumentoDeSalario.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\AumentoDeSalario\bin\Debug\netcoreapp3.1\AumentoDeSalario.dll
+C:\Users\017586631\source\repos\AumentoDeSalario\bin\Debug\netcoreapp3.1\AumentoDeSalario.pdb
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.AssemblyInfo.cs
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.dll
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.pdb
+C:\Users\017586631\source\repos\AumentoDeSalario\obj\Debug\netcoreapp3.1\AumentoDeSalario.genruntimeconfig.cache
